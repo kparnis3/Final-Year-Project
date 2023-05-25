@@ -1,0 +1,28 @@
+{
+  SeeDocsAt httpsgithub.comMicrosoftAirSimblobmaindocssettings.md,
+  SettingsVersion 1.2,
+  SimMode Multirotor,
+  ClockSpeed 3,
+  ViewMode ,
+CameraDefaults {
+    CaptureSettings [
+        {
+            ImageType 1,
+            Width 150,
+            Height 150,
+            FOV_Degrees 90
+        }
+    ]
+},
+Recording {
+    RecordOnMove false,
+    RecordInterval 0.3,
+    Folder CUsersUserDesktopThesisUnRealTestImages2,
+    Enabled false,
+    Cameras [
+        { CameraName 0, ImageType 1, PixelsAsFloat true, Compress false }
+    ]
+  }
+
+}
+

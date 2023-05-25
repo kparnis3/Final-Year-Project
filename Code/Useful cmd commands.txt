@@ -1,0 +1,3 @@
+cd C:\Users\User\Desktop\ThesisUnReal
+python3 [name].py
+python -m tensorboard.main --logdir=logs
